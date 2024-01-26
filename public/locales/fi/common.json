@@ -1,0 +1,18 @@
+{
+    "pages": {
+        "home": {
+            "heading": "Etusivu"
+        },
+        "signIn": {
+            "heading": "Kirjaudu sisään"
+        },
+        "forgotPassword": {
+            "heading": "Unohtuiko salasana?"
+        }
+    },
+    "paths": {
+        "home": "Etusivu",
+        "signIn": "Kirjaudu",
+        "forgotPassword": "Unohtuiko salasana?"
+    }
+}

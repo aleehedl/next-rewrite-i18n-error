@@ -1,0 +1,18 @@
+{
+    "pages": {
+        "home": {
+            "heading": "Home"
+        },
+        "signIn": {
+            "heading": "Sign in"
+        },
+        "forgotPassword": {
+            "heading": "Forgot password?"
+        }
+    },
+    "paths": {
+        "home": "Home",
+        "signIn": "Sign in",
+        "forgotPassword": "Forgot password?"
+    }
+}
