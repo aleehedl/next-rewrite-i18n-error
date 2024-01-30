@@ -4,7 +4,7 @@ module.exports = {
     defaultNs: 'common',
     i18n: {
       defaultLocale: 'fi',
-      localeDetection: false,
+      localeDetection: true,
       locales: ['fi', 'en'],
     },
     localePath:
